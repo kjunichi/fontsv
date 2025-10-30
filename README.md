@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/kjunichi/fontsv/actions/workflows/node.js.yml/badge.svg)](https://github.com/kjunichi/fontsv/actions/workflows/node.js.yml)
+
 # Docker
 
 ```sh
@@ -15,3 +17,4 @@ docker run -it node-docker
 ```sh
 docker run -dp 192.168.0.20:3030:3000 node-docker
 ```
+
